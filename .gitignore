@@ -27,3 +27,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+# 프로젝트 제외 경로
+/maven-study/target/
